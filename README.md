@@ -2,6 +2,7 @@
 
 ## 📌 Overview
 The **Exercise Tracker App** is a React Native application that allows users to log and track their exercises, including sport type, distance, duration, and date. Users can add exercises, view their last logged exercise, and see a summary of their activities.
+I made this for a school assignement in OAMK Mobile Design and Development course.
 
 ## 🏗 Features
 - ✅ Add exercises with sport type, distance, duration, and date
@@ -52,7 +53,10 @@ The **Exercise Tracker App** is a React Native application that allows users to 
    - Run on an iOS simulator or Android emulator.
 
 ## 📸 Screenshots
-![App Screenshot](https://via.placeholder.com/600x300.png?text=App+Screenshot)
+
+<img src="https://github.com/user-attachments/assets/f44ecb6b-d88d-45c7-8b83-a7766b4c441c" width="300">
+
+
 
 ## 🤝 Contributing
 Feel free to contribute by opening issues or submitting pull requests.
