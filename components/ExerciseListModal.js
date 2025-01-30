@@ -1,4 +1,6 @@
-import React from 'react';
+ 
+ 
+ import React from 'react';
 import { View, StyleSheet, FlatList, Text } from 'react-native';
 import { Modal, Button, Card } from 'react-native-paper';
 
@@ -89,4 +91,7 @@ const styles = StyleSheet.create({
   },
 });
 
-export default ExerciseListModal;
+
+
+export default ExerciseListModal; 
+

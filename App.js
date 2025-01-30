@@ -61,7 +61,8 @@ export default function App() {
                 <MaterialCommunityIcons name="clock-time-eight-outline" size={24} color="white" /> {lastExercise ? lastExercise.duration : 0} min
               </Text>
               <Text style={styles.exerciseStatText}>
-                <Ionicons name="flame-sharp" size={24} color="white" /> {lastExercise ? Math.round(lastExercise.distance * 70 / 2) * 2 : 0} kcal
+                <Ionicons name="flame-sharp" size={24} color="white" /> 
+                {lastExercise ? Math.round(lastExercise.caloriesBurned) : 0} kcal
               </Text>
             </View>
             {/* Exercise Type Display */}

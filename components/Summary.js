@@ -24,6 +24,7 @@ const Summary = ({ exercises }) => {
       <View style={styles.container}>
         {/* Container that holds all the summary items */}
         <View style={styles.summaryColumn}>
+          <Text style={styles.bold} >Summary</Text>
           {/* Display total distance with FontAwesome icon for visual effect */}
           <Text style={styles.summaryItem}>
             <FontAwesome name="arrow-circle-right" size={24} color="white" />
